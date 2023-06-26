@@ -1,7 +1,19 @@
 body {
   background-color:#ac855a;
   color:black;
+
 }
+
+a:link {
+  color:black;
+}
+a:hover {
+  color:darkblue;
+}
+a:visited {
+  color:black;
+}
+
 
 .head {
   font-size:2.5em;
