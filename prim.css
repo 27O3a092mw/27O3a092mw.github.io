@@ -21,7 +21,9 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
+td {
+  border: 1px solid #dddddd;
+}
 
 .head {
   font-size:2.5em;
