@@ -9,3 +9,9 @@ header {
   height:15%;
   font-family:'Josefin Sans';
 }
+
+.photo-post {
+  display:flex;
+  text-align:center;
+  justify-content:center;
+}
