@@ -18,27 +18,23 @@ header {
   top:8%;
   left:0;
   display:inline-block;
-  height:100px;
+  height:30px;
   font-family:'Josefin Sans';
   width:100%;
   overflow:hidden;
   color:black;
-  background-color:darkgrey;
-  
-}
-.contact{
-  float: right;
-  padding-right:25px;
-  color:black;
+  background-color:dimgrey;
   
 }
 .socialIMG {
   width:25px;
   height:25px;
+  
 }
 .social {
   float:left;
-
+  padding-left:30px;
+  
 }
 a{
   color:gold;
