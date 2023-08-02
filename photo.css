@@ -9,14 +9,15 @@ header {
   background-color:black;
   color:gold;
   width:100%;
-  height:7%;
+  height:9%;
   font-family:'Josefin Sans';
   text-align:center;
 }
 .subhead{
+  position:fixed;
+  top:100%;
   display:inline-block;
-  top:7%;
-  height:4%;
+  height:9%;
   font-family:'Josefin Sans';
   width:98%;
   color:gold;
@@ -27,7 +28,7 @@ header {
 }
 .social {
   float:left;
-  
+
 }
 a{
   color:gold;
