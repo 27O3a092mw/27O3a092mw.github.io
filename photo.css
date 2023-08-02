@@ -21,10 +21,17 @@ header {
   font-family:'Josefin Sans';
   width:98%;
   color:gold;
+  background-color:black;
+
 }
 .contact{
   float: right;
 
+}
+.socialIMG {
+  border:1px solid white;
+  width:25px;
+  height:25px;
 }
 .social {
   float:left;
