@@ -15,13 +15,13 @@ header {
 }
 .subhead{
   position:fixed;
-  top:91%;
-  display:inline-block;
-  height:9%;
+  top:95%;
+  display:grid;
+  height:4%;
   font-family:'Josefin Sans';
   width:98%;
-  color:gold;
-  background-color:black;
+  color:black;
+  background-color:gold;
 
 }
 .contact{
