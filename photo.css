@@ -18,9 +18,12 @@ header {
   top:7%;
   height:4%;
   font-family:'Josefin Sans';
-  text-align:right;
   width:98%;
   color:gold;
+}
+.contact{
+  float: right;
+  
 }
 a{
   color:gold;
