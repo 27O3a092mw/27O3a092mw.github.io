@@ -15,21 +15,19 @@ header {
 }
 .subhead{
   position:fixed;
-  top:95%;
+  top:10%;
   display:grid;
-  height:4%;
+  height:25px;
   font-family:'Josefin Sans';
-  width:98%;
+  width:100%;
+  overflow:hidden;
   color:black;
-  background-color:gold;
-
 }
 .contact{
   float: right;
 
 }
 .socialIMG {
-  border:1px solid white;
   width:25px;
   height:25px;
 }
