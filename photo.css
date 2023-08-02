@@ -16,16 +16,20 @@ header {
 .subhead{
   position:fixed;
   top:10%;
-  display:grid;
+  display:inline-block;
   height:25px;
   font-family:'Josefin Sans';
   width:100%;
   overflow:hidden;
   color:black;
+  background-color:darkgrey;
+  
 }
 .contact{
   float: right;
-
+  padding-right:25px;
+  color:black;
+  
 }
 .socialIMG {
   width:25px;
