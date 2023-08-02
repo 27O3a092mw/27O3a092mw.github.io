@@ -15,9 +15,10 @@ header {
 }
 .subhead{
   position:fixed;
-  top:10%;
+  top:8%;
+  left:0;
   display:inline-block;
-  height:25px;
+  height:100px;
   font-family:'Josefin Sans';
   width:100%;
   overflow:hidden;
