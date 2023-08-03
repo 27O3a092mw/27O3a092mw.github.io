@@ -34,13 +34,18 @@ header {
   height:25px;
   padding-right:15px;
 }
-
+.socialIMG.email {
+  height:25px;
+  width:auto;
+  padding-right:15px;
+}
 .social {
   top:2px;
   float:left;
   padding-left:30px;
   
 }
+
 a{
   color:gold;
   text-decoration:none;
