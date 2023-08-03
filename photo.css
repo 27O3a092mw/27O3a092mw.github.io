@@ -1,5 +1,8 @@
 body {
   background-color:dimgrey;
+  height:100vh;
+  width:100vw;
+
 }
 
 header {
@@ -30,6 +33,11 @@ header {
   width:25px;
   height:25px;
   padding-right:15px;
+}
+.socialIMG .email {
+  width:30px;
+  height:30px;
+  
 }
 .social {
   top:2px;
